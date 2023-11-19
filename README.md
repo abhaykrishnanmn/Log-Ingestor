@@ -156,6 +156,6 @@ Distributed systems or cloud-based solutions can ensure robust scalability.
 
 Abhay Krishnan M N - (https://www.linkedin.com/in/abhay-krishnan-m-n-3797b8161) - abhaykrishnan52@gmail.com
 
-Project Link: [https://github.com/dyte-submissions/november-2023-hiring-abhaykrishnanmn.git](https://github.com/dyte-submissions/november-2023-hiring-abhaykrishnanmn.git)
+Project Link: [https://github.com/abhaykrishnanmn/Log-Ingestor](https://github.com/abhaykrishnanmn/Log-Ingestor)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
