@@ -30,6 +30,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#contact">Contact</a></li>    
   </ol>
 </details>
 
@@ -148,3 +149,13 @@ Aim for efficient and quick search results.
 Allow combining multiple filters.
 Provide real-time log ingestion and searching capabilities.
 Distributed systems or cloud-based solutions can ensure robust scalability.
+
+
+<!-- CONTACT -->
+## Contact
+
+Abhay Krishnan M N - (https://www.linkedin.com/in/abhay-krishnan-m-n-3797b8161) - abhaykrishnan52@gmail.com
+
+Project Link: [https://github.com/dyte-submissions/november-2023-hiring-abhaykrishnanmn.git](https://github.com/dyte-submissions/november-2023-hiring-abhaykrishnanmn.git)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
